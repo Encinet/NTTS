@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NTTS</string>
+    <string name="speech">朗读</string>
+    <string name="stop">停止</string>
+    <string name="save">保存</string>
+</resources>
